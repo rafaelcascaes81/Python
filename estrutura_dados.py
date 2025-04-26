@@ -24,3 +24,8 @@ print(conjunto1.intersection(conjunto2)) ##interseção com função intersectio
 print(conjunto1 - conjunto2) ##diferença com -
 print(conjunto1.difference(conjunto2)) ##diferença com funçao difference
 
+##Dicionario
+dic1 = {1: 'Rafael', 2: 'Tais', 3: 'Pantanal', 4: 'Floripa'}
+print(dic1)
+print(dic1[4])
+print(f'O {dic1[1]} é casado com a {dic1[2]} eles moram no {dic1[3]} ')
