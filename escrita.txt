@@ -1,0 +1,3 @@
+teste de escrita em Python
+nova escrita no arquivo
+nova escrita no arquivo
